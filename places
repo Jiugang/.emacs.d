@@ -1,0 +1,16 @@
+;;; -*- coding: utf-8 -*-
+(("d:/zjg/Personal/zjg.org" . 215)
+ ("d:/Installer/emacs/.emacs.d/lisp/init.el" . 432)
+ ("d:/zjg/Installer/AHK/zjg.ahk" . 1289)
+ ("d:/Installer/emacs/.emacs.d/recentf" . 637)
+ ("d:/Installer/emacs/.emacs" . 9421)
+ ("d:/Installer/emacs/.emacs.d/elpa/smartparens-20161216.140/smartparens-autoloads.el" . 6466)
+ ("d:/Installer/emacs/.emacs.d/elpa/hungry-delete-20161128.2238/hungry-delete-autoloads.el" . 2981)
+ ("d:/Installer/emacs/.emacs.d/elpa/easy-kill-20151030.2229/easy-kill-autoloads.el" . 1108)
+ ("d:/Installer/emacs/.emacs.d/lisp/colir.el" . 4097)
+ ("d:/Installer/emacs/.emacs.d/elpa/flycheck-20161117.144/flycheck-autoloads.el" . 8429)
+ ("d:/Installer/emacs/.emacs.d/elpa/dash-20161121.55/dash-autoloads.el" . 234)
+ ("d:/Installer/emacs/.emacs.d/elpa/pkg-info-20150517.443/pkg-info-autoloads.el" . 3760)
+ ("d:/Installer/emacs/.emacs.d/elpa/epl-20150517.433/epl-autoloads.el" . 232)
+ ("d:/Book/"
+  (dired-filename . "d:/Book/重构-改善既有代码的设计")))

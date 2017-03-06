@@ -1,0 +1,67 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Mar  6 19:43:33 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22717 19301 731044 100000) (desktop . "208") "FEC@FEC-PC" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Consolas-normal-normal-normal-mono-17-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#272822") (mouse-color . "#F8F8F2") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 45) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . fullboth) (display-type . color) (background-mode . dark) (cursor-color . "#F8F8F2") (environment) (frameset--id . "07F4-969B-F365-D65D") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (fullscreen-restore . maximized) (visibility . t) (width . 176) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 1600) (pixel-height . 880) (total-width . 177) (total-height . 44) (normal-height . 1.0) (normal-width . 1.0) (buffer "init.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1931) (start . 1574))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("user" "‘Íß‘Ë¢‘´å‘¾ü‘ÊÂ‘¸ï‘Ãü6"))
+(setq regexp-search-ring '("elpa" "auto" "\\(\\).*?\\(e::\\)" "server" "src-fontify-natively" "paren" "compa" "line" "leng" "dela" "org" "rf" "desk" "tool" "add" "font"))
+(setq register-alist nil)
+(setq file-name-history '("d:/zjg/info.todo" "d:/1." "d:/ZJG/Installer/AHK/zjg.ahk" "d:/Installer/emacs/.emacs.d/lisp/ivy.el" "d:/Installer/emacs/.emacs.d/lisp/init.el" "d:/Installer/emacs/.emacs" "d:/1.c" "d:/Installer/emacs/.emacs.d/lisp/1.c" "d:/zjg/emacs.org" "d:/Installer/emacs/.emacs.d/lisp/colir.el" "d:/Installer/emacs/.emacs.d/lisp/init.el" "d:/Book/‘ÖØ‘¹¹-‘¸Ä‘ÉÆ‘¼È‘ÓÐ‘´ú‘Âë‘µÄ‘Éè‘¼Æ/Refactoring/src/introduce/1.el" "d:/Book/‘ÖØ‘¹¹-‘¸Ä‘ÉÆ‘¼È‘ÓÐ‘´ú‘Âë‘µÄ‘Éè‘¼Æ/Refactoring/src/" "d:/Book/‘ÖØ‘¹¹-‘¸Ä‘ÉÆ‘¼È‘ÓÐ‘´ú‘Âë‘µÄ‘Éè‘¼Æ/Refactoring/src/consolidate/duplicate/conditional/" "d:/Book/[‘´ú‘Âë‘´ó‘È«2‘ÖÐ‘ÎÄ‘°æ‘ºÍ‘Ó¢‘ÎÄ‘°æ(‘Íê‘Õû‘Çå‘Îú‘°æ)]/" "d:/Installer/emacs/.emacs.d/" "~/.emacs.d/lisp/init.el" "d:/Installer/emacs/.emacs.d/lisp/unicad.el" "~/.emacs.d/lisp/init.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "d:/Installer/emacs/.emacs.d/lisp/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(global-auto-revert-mode ivy-mode company-mode hungry-delete-mode smartparens-mode flycheck-mode)
+  1931
+  '(694 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (432 467 466 445 444 3832 3772 3749 694 694 694 694 694 694 694 666))))
+
+(desktop-create-buffer 208
+  "d:/zjg/Installer/AHK/zjg.ahk"
+  "zjg.ahk"
+  'fundamental-mode
+  '(global-auto-revert-mode ivy-mode company-mode hungry-delete-mode smartparens-mode)
+  1289
+  '(1288 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-with-signature-dos))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "d:/zjg/Personal/zjg.org"
+  "zjg.org"
+  'org-mode
+  '(global-auto-revert-mode ivy-mode company-mode hungry-delete-mode smartparens-mode flycheck-mode)
+  215
+  '(181 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . chinese-gb18030-dos) (truncate-lines . t))
+  '((mark-ring (181))))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(global-auto-revert-mode ivy-mode company-mode hungry-delete-mode)
+  1
+  '(1 nil)
+  t
+  '(:history ((:title "" :url "http://www.mobygames.com/game/playstation-4/witcher-3-wild-hunt-alternative-look-for-ciri/screenshots/gameShotId,820617/") (:title "ciri - Google ‘ËÑ‘Ë÷" :url "http://www.google.com.hk/search?gbv=1&bih=&biw=&source=hp&hl=zh-CN&ie=GB2312&tbm=isch&btnG=%CB%D1%CB%F7%CD%BC%C6%AC&q=+++++++++++++++++++++++++++++++++++++++++++++++++++++++ciri" :point 1278) (:title "Google ‘Í¼‘Æ¬" :url "http://www.google.com.hk/imghp?hl=zh-CN&tab=wi" :point 130) (:title "Google" :url "http://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp" :point 4) (:title "Google" :url "http://www.google.cn/" :point 4) (:url "http://www.nakedskins.com/Witcher-3-Wild-Hunt-Nude.shtml" :title "The Witcher 3 nude and sex" :point 1) (:point 115 :url "http://www.google.com.hk/search?gbv=1&bih=&biw=&source=hp&hl=zh-HK&ie=Big5&tbm=isch&btnG=%CB%D1%8C%A4%88D%C6%AC&q=+nude+ciri" :title "nude ciri - Google ‘ËÑ•Þò") (:point 140 :url "http://www.google.com.hk/imghp?hl=zh-TW&tab=wi" :title "Google •è·‘Æ¬") (:point 4 :url "http://www.google.com.hk/" :title "Google") (:point 6 :url "http://www.baidu.com/baidu.html?from=noscript" :title "‘°Ù‘¶È‘Ò»‘ÏÂ‘£¬‘Äã‘¾Í‘Öª‘µÀ") (:point 1 :url "http://www.baidu.com/" :title "‘°Ù‘¶È‘Ò»‘ÏÂ‘£¬‘Äã‘¾Í‘Öª‘µÀ")))
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t) (eww-history-position . 0))
+  '((mark-ring (1))))
+
